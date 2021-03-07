@@ -1,2 +1,2 @@
 # dataStructures03
-Queue and Stack
+Use of Queue and Stack to manipulate data
